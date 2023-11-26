@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="cpcss.css"/>
+        <body>
+            <div class="title">
+                <h1>CURRIESPOINT</h1>
+            </div>
+            <div class="main">
+                
+                <div class="curry">
+                    <h1>Sambar</h1>
+                    <p>price=25/-</p>
+                    <button>select</button>
+
+                </div>
+                <div class="curry">
+                    <h1>Rasam</h1>
+                    <p>price=25/-</p>
+                    <button>select</button>
+
+
+                </div>
+                <div class="curry">
+                    <h1>Pappu</h1>
+                    <p>price=30/-</p>
+                    <button>select</button>
+
+
+                </div>
+                <div class="curry">
+                    <h1>Brinjalfry</h1>
+                    <p>price=15/-</p>
+                    <button>select</button>
+
+
+                </div>
+            </div>
+            
+        </body>
+    </head>
+</html>
