@@ -1,0 +1,11 @@
+body{background:linear-gradient(yellow,green);}
+button{color: red;background-color: fuchsia;border-radius: 10px; border-width: 0px;padding: 5px;
+     padding-inline: 25px;left: 100px; top: 100px;font-weight: bold;font-size: large;}
+.curry{width: 250px; background-color: burlywood;text-align: center;border-radius: 10px;height: 170px;}
+.main{display: flex;justify-content: center;gap: 20px;}
+.title{text-align: center;}
+button:hover{background-color: blue;}
+@media screenand (max-width:700px) {.curry(width:45% ;margin: 10px 0;)
+
+    
+}
